@@ -1,0 +1,40 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\bin\Debug\Launcher Complexo do Acre.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\bin\Debug\Launcher Complexo do Acre.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\bin\Debug\Launcher Complexo do Acre.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\obj\Debug\Launcher_Complexo_do_Acre.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\bin\Debug\Interop.WMPLib.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\obj\Debug\Interop.WMPLib.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.csproj.ResolveComReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\obj\Debug\Launcher_Complexo_do_Acre.AcreRP.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\bin\Debug\Launcher Complexo do Acre.exe.manifest
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\bin\Debug\Launcher Complexo do Acre.application
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.TrustInfo.xml
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.exe.manifest
+C:\Users\lucas\OneDrive\Área de Trabalho\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.application
+F:\Launcher Complexo do Acre\bin\Debug\Launcher Complexo do Acre.exe.config
+F:\Launcher Complexo do Acre\bin\Debug\Launcher Complexo do Acre.exe.manifest
+F:\Launcher Complexo do Acre\bin\Debug\Launcher Complexo do Acre.application
+F:\Launcher Complexo do Acre\bin\Debug\Launcher Complexo do Acre.exe
+F:\Launcher Complexo do Acre\bin\Debug\Launcher Complexo do Acre.pdb
+F:\Launcher Complexo do Acre\bin\Debug\Interop.WMPLib.dll
+F:\Launcher Complexo do Acre\bin\Debug\AxInterop.WMPLib.dll
+F:\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.csprojAssemblyReference.cache
+F:\Launcher Complexo do Acre\obj\Debug\Interop.WMPLib.dll
+F:\Launcher Complexo do Acre\obj\Debug\AxInterop.WMPLib.dll
+F:\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.csproj.ResolveComReference.cache
+F:\Launcher Complexo do Acre\obj\Debug\Launcher_Complexo_do_Acre.AcreRP.resources
+F:\Launcher Complexo do Acre\obj\Debug\Launcher_Complexo_do_Acre.Properties.Resources.resources
+F:\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.csproj.GenerateResource.cache
+F:\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.csproj.CoreCompileInputs.cache
+F:\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.TrustInfo.xml
+F:\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.exe.manifest
+F:\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.application
+F:\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.exe
+F:\Launcher Complexo do Acre\obj\Debug\Launcher Complexo do Acre.pdb
